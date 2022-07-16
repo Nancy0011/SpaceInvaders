@@ -1,0 +1,1788 @@
+Dec 03, 2020 1:16:57 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 1:16:57 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 1:16:57 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 1:34:22 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 1:34:23 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 1:34:23 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 1:35:10 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 1:35:11 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 1:35:11 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 1:42:01 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 1:42:01 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 1:42:01 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:16:11 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 9:16:12 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 9:16:12 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:17:34 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 9:17:34 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 9:17:34 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:23:13 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 9:23:14 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 9:23:14 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:23:26 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 9:23:26 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 9:23:26 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:26:34 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 9:26:35 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 9:26:35 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:26:42 AM controller.StartApplication main
+INFO: USER Logged in...[aa]
+Dec 03, 2020 9:26:42 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 9:26:51 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 9:36:05 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 9:36:06 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 9:36:06 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:36:14 AM controller.StartApplication main
+INFO: USER Logged in...[aa]
+Dec 03, 2020 9:36:14 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 9:36:19 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 9:58:00 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 9:58:00 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 9:58:01 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 9:58:14 AM controller.StartApplication main
+INFO: USER Logged in...[aa]
+Dec 03, 2020 9:58:14 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 9:58:17 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 9:58:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:58:36 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 9:59:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:02:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:02:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:02:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:02:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:02:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:02:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:02:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:04:34 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 10:04:35 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 10:04:35 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 10:04:41 AM controller.StartApplication main
+INFO: USER Logged in...[aa]
+Dec 03, 2020 10:04:41 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 10:04:44 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 10:05:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:32 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:32 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:35 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:05:35 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:32 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:40 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:56 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:56 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:57 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:57 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:06:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:07:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:35 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:47 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:56 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:56 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:57 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:57 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:57:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:58:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:58:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:58:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:58:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:58:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:32 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:35 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:36 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:37 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 10:59:37 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:09:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:10:28 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:10:29 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:10:29 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:11:03 AM controller.StartApplication main
+INFO: USER Logged in...[a1]
+Dec 03, 2020 11:11:03 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 11:11:06 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 11:11:36 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:37 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:37 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:40 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:40 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:42 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:42 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:11:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:32 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:12:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:13:58 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:13:58 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:13:59 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:14:10 AM controller.StartApplication main
+INFO: USER Logged in...[123]
+Dec 03, 2020 11:14:10 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 11:14:13 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 11:15:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:14 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:47 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:47 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:15:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:19:28 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:19:29 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:19:29 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:20:51 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:20:51 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:20:51 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:22:07 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:22:08 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:22:08 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:22:16 AM controller.StartApplication main
+INFO: USER Logged in...[5]
+Dec 03, 2020 11:22:16 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 11:22:20 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 11:22:40 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:22:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:23:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:23:42 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:24:25 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:24:25 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:24:25 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:24:32 AM controller.StartApplication main
+INFO: USER Logged in...[5]
+Dec 03, 2020 11:24:32 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 11:24:35 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 11:25:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:14 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:14 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:42 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:25:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:26:29 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:26:30 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:26:30 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:26:36 AM controller.StartApplication main
+INFO: USER Logged in...[5]
+Dec 03, 2020 11:26:36 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 11:26:39 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 11:26:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:26:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:26:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:26:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:26:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:14 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:27:16 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:34:55 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 03, 2020 11:34:56 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 03, 2020 11:34:56 AM controller.StartApplication main
+INFO: Logging in...
+Dec 03, 2020 11:35:10 AM controller.StartApplication main
+INFO: USER Logged in...[5]
+Dec 03, 2020 11:35:11 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 03, 2020 11:35:13 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 03, 2020 11:35:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:32 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:32 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:34 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:35 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:35 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:35 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:36 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:37 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:37 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:40 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:42 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:42 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:47 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:35:47 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:38 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 03, 2020 11:36:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 8:29:10 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 04, 2020 8:29:11 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 04, 2020 8:29:11 AM controller.StartApplication main
+INFO: Logging in...
+Dec 04, 2020 9:11:46 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 04, 2020 9:11:47 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 04, 2020 9:11:47 AM controller.StartApplication main
+INFO: Logging in...
+Dec 04, 2020 9:11:53 AM controller.StartApplication main
+INFO: USER Logged in...[aa]
+Dec 04, 2020 9:11:53 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 04, 2020 9:11:55 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 04, 2020 9:17:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:56 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:17:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:29:54 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 04, 2020 9:29:55 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 04, 2020 9:29:55 AM controller.StartApplication main
+INFO: Logging in...
+Dec 04, 2020 9:32:02 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Dec 04, 2020 9:32:03 AM controller.StartApplication main
+INFO: Connected to DB...
+Dec 04, 2020 9:32:03 AM controller.StartApplication main
+INFO: Logging in...
+Dec 04, 2020 9:32:14 AM controller.StartApplication main
+INFO: USER Logged in...[1237]
+Dec 04, 2020 9:32:14 AM controller.StartApplication main
+INFO: About to make View visible..
+Dec 04, 2020 9:32:17 AM controller.StartApplication main
+INFO: About to start game thread..
+Dec 04, 2020 9:32:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:32:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:33:10 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:33:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:33:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:33:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:33:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:33:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Dec 04, 2020 9:33:14 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:08:52 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 10, 2021 3:08:53 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 10, 2021 3:08:53 AM controller.StartApplication main
+INFO: Logging in...
+Feb 10, 2021 3:09:37 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 10, 2021 3:09:38 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 10, 2021 3:09:38 AM controller.StartApplication main
+INFO: Logging in...
+Feb 10, 2021 3:09:42 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Feb 10, 2021 3:09:42 AM controller.StartApplication main
+INFO: About to make View visible..
+Feb 10, 2021 3:10:00 AM controller.StartApplication main
+INFO: About to start game thread..
+Feb 10, 2021 3:10:57 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:10:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:02 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:03 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:04 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:05 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:47 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:11:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:09 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:11 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:13 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:14 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:14 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:15 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:12:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:57 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:57 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:13:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:14:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:14:00 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:14:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:14:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:14:01 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 10, 2021 3:21:30 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 10, 2021 3:21:31 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 10, 2021 3:21:31 AM controller.StartApplication main
+INFO: Logging in...
+Feb 10, 2021 3:24:02 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 10, 2021 3:24:03 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 10, 2021 3:24:03 AM controller.StartApplication main
+INFO: Logging in...
+Feb 10, 2021 3:24:16 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Feb 10, 2021 3:24:16 AM controller.StartApplication main
+INFO: About to make View visible..
+Feb 10, 2021 3:24:19 AM controller.StartApplication main
+INFO: About to start game thread..
+Feb 23, 2021 2:30:00 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 23, 2021 2:30:01 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 23, 2021 2:30:01 AM controller.StartApplication main
+INFO: Logging in...
+Feb 23, 2021 2:30:05 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Feb 23, 2021 2:30:05 AM controller.StartApplication main
+INFO: About to make View visible..
+Feb 23, 2021 2:30:12 AM controller.StartApplication main
+INFO: About to start game thread..
+Feb 23, 2021 2:31:26 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 23, 2021 2:31:26 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 23, 2021 2:31:26 AM controller.StartApplication main
+INFO: Logging in...
+Feb 23, 2021 2:31:31 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Feb 23, 2021 2:31:31 AM controller.StartApplication main
+INFO: About to make View visible..
+Feb 23, 2021 2:31:31 AM controller.StartApplication main
+INFO: About to start game thread..
+Feb 23, 2021 2:31:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:31:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:50 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:51 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:52 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:53 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:54 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:32:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Feb 23, 2021 2:36:58 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 23, 2021 2:36:59 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 23, 2021 2:36:59 AM controller.StartApplication main
+INFO: Logging in...
+Feb 23, 2021 2:46:38 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 23, 2021 2:46:38 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 23, 2021 2:46:38 AM controller.StartApplication main
+INFO: Logging in...
+Feb 23, 2021 2:59:20 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Feb 23, 2021 2:59:20 AM controller.StartApplication main
+INFO: Connected to DB...
+Feb 23, 2021 2:59:20 AM controller.StartApplication main
+INFO: Logging in...
+Feb 23, 2021 2:59:26 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Feb 23, 2021 2:59:26 AM controller.StartApplication main
+INFO: About to make View visible..
+Feb 23, 2021 2:59:26 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 02, 2021 2:29:43 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 02, 2021 2:29:44 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 02, 2021 2:29:44 AM controller.StartApplication main
+INFO: Logging in...
+Mar 02, 2021 2:30:02 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 02, 2021 2:30:02 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 02, 2021 2:30:02 AM controller.StartApplication main
+INFO: Logging in...
+Mar 02, 2021 2:30:08 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 02, 2021 2:30:08 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 02, 2021 2:30:08 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 02, 2021 2:43:54 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 02, 2021 2:43:55 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 02, 2021 2:43:55 AM controller.StartApplication main
+INFO: Logging in...
+Mar 02, 2021 2:43:59 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 02, 2021 2:43:59 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 02, 2021 2:43:59 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 02, 2021 3:35:10 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 02, 2021 3:35:11 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 02, 2021 3:35:11 AM controller.StartApplication main
+INFO: Logging in...
+Mar 02, 2021 4:21:37 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 02, 2021 4:21:37 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 02, 2021 4:21:37 AM controller.StartApplication main
+INFO: Logging in...
+Mar 02, 2021 4:21:42 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 02, 2021 4:21:42 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 02, 2021 4:21:42 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 02, 2021 4:22:33 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 02, 2021 4:22:33 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 02, 2021 4:22:33 AM controller.StartApplication main
+INFO: Logging in...
+Mar 02, 2021 4:22:43 AM controller.StartApplication main
+INFO: USER Logged in...[asa]
+Mar 02, 2021 4:22:43 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 02, 2021 4:22:48 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 05, 2021 4:50:36 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 05, 2021 4:50:37 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 05, 2021 4:50:37 AM controller.StartApplication main
+INFO: Logging in...
+Mar 05, 2021 4:50:42 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 05, 2021 4:50:42 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 05, 2021 4:50:42 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 05, 2021 5:21:04 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 05, 2021 5:21:05 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 05, 2021 5:21:05 AM controller.StartApplication main
+INFO: Logging in...
+Mar 05, 2021 5:21:17 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 05, 2021 5:21:17 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 05, 2021 5:21:17 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 07, 2021 4:37:46 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 07, 2021 4:37:47 PM controller.StartApplication main
+INFO: Connected to DB...
+Mar 07, 2021 4:37:47 PM controller.StartApplication main
+INFO: Logging in...
+Mar 07, 2021 4:37:52 PM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 07, 2021 4:37:52 PM controller.StartApplication main
+INFO: About to make View visible..
+Mar 07, 2021 4:37:52 PM controller.StartApplication main
+INFO: About to start game thread..
+Mar 09, 2021 4:46:02 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 09, 2021 4:46:03 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 09, 2021 4:46:03 AM controller.StartApplication main
+INFO: Logging in...
+Mar 09, 2021 4:46:07 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 09, 2021 4:46:07 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 09, 2021 4:46:07 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 09, 2021 4:47:45 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 09, 2021 4:47:46 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 09, 2021 4:47:46 AM controller.StartApplication main
+INFO: Logging in...
+Mar 09, 2021 4:47:49 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 09, 2021 4:47:49 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 09, 2021 4:47:49 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 09, 2021 4:49:03 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 09, 2021 4:49:04 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 09, 2021 4:49:04 AM controller.StartApplication main
+INFO: Logging in...
+Mar 09, 2021 4:50:51 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 09, 2021 4:50:52 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 09, 2021 4:50:52 AM controller.StartApplication main
+INFO: Logging in...
+Mar 09, 2021 4:50:56 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 09, 2021 4:50:56 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 09, 2021 4:50:56 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 09, 2021 4:51:33 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:54:42 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 09, 2021 4:54:42 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 09, 2021 4:54:43 AM controller.StartApplication main
+INFO: Logging in...
+Mar 09, 2021 4:54:47 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 09, 2021 4:54:47 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 09, 2021 4:54:47 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 09, 2021 4:55:17 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:18 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:19 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:20 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:21 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:39 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:40 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:40 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:41 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:42 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:55:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:12 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:22 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:23 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:24 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:56:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:55 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:56 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:56 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:58 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:57:59 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:06 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:07 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:08 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:25 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:26 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:27 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:28 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:29 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:30 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:31 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:45 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:46 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:47 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:48 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 4:58:49 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 09, 2021 5:03:16 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 09, 2021 5:03:17 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 09, 2021 5:03:17 AM controller.StartApplication main
+INFO: Logging in...
+Mar 09, 2021 5:03:21 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 09, 2021 5:03:21 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 09, 2021 5:03:21 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 09, 2021 5:03:49 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 09, 2021 5:03:49 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 09, 2021 5:03:49 AM controller.StartApplication main
+INFO: Logging in...
+Mar 09, 2021 5:03:59 AM controller.StartApplication main
+INFO: USER Logged in...[21]
+Mar 09, 2021 5:03:59 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 09, 2021 5:04:03 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 17, 2021 11:49:22 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 17, 2021 11:49:22 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 17, 2021 11:49:22 AM controller.StartApplication main
+INFO: Logging in...
+Mar 17, 2021 11:49:26 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 17, 2021 11:49:26 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 17, 2021 11:49:26 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 17, 2021 11:49:37 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 11:49:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 11:49:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 11:49:43 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 11:49:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 11:49:44 AM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 11:50:58 AM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 17, 2021 11:50:58 AM controller.StartApplication main
+INFO: Connected to DB...
+Mar 17, 2021 11:50:58 AM controller.StartApplication main
+INFO: Logging in...
+Mar 17, 2021 11:51:07 AM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 17, 2021 11:51:07 AM controller.StartApplication main
+INFO: About to make View visible..
+Mar 17, 2021 11:51:07 AM controller.StartApplication main
+INFO: About to start game thread..
+Mar 17, 2021 12:15:25 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 17, 2021 12:15:25 PM controller.StartApplication main
+INFO: Connected to DB...
+Mar 17, 2021 12:15:25 PM controller.StartApplication main
+INFO: Logging in...
+Mar 17, 2021 12:15:29 PM controller.StartApplication main
+INFO: USER Logged in...[1]
+Mar 17, 2021 12:15:29 PM controller.StartApplication main
+INFO: About to make View visible..
+Mar 17, 2021 12:15:29 PM controller.StartApplication main
+INFO: About to start game thread..
+Mar 17, 2021 12:15:51 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 17, 2021 12:15:51 PM controller.StartApplication main
+INFO: Connected to DB...
+Mar 17, 2021 12:15:51 PM controller.StartApplication main
+INFO: Logging in...
+Mar 17, 2021 12:16:41 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Mar 17, 2021 12:16:41 PM controller.StartApplication main
+INFO: Connected to DB...
+Mar 17, 2021 12:16:41 PM controller.StartApplication main
+INFO: Logging in...
+Mar 17, 2021 12:16:49 PM controller.StartApplication main
+INFO: USER Logged in...[00]
+Mar 17, 2021 12:16:49 PM controller.StartApplication main
+INFO: About to make View visible..
+Mar 17, 2021 12:16:52 PM controller.StartApplication main
+INFO: About to start game thread..
+Mar 17, 2021 12:17:05 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:09 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:11 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:11 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:12 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:12 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:22 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:22 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:23 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:23 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Mar 17, 2021 12:17:23 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.

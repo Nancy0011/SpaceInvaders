@@ -1,0 +1,17 @@
+1,1,false
+TEST USER2,TEST PASSWORD2,false
+TestUserName,TestUserNamePassword,true
+TestUserName2,TestUserNamePassword2,true
+TestUserName3,TestUserNamePassword3,true
+a,123,true
+a11,a11,true
+ 12,12,true
+a1,a1,true
+aa,aa,true
+123,123,true
+5,5,true
+12345,1,true
+1237,1,true
+asa,a,false
+21,21,false
+00,1,false
